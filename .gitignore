@@ -18,6 +18,8 @@ yarn-error.log*
 
 # env files
 .env*
+AZURE_OPENAI_ENDPOINT=https://mango-bush-0a9e12903.5.azurestaticapps.net/api/v1
+AZURE_OPENAI_KEY=134fc9a2-a8de-4da7-af1d-d20c2ac06ed4
 
 # vercel
 .vercel
